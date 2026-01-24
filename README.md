@@ -1,4 +1,4 @@
-# Bishworaj Poudel - Personal Website
+# Aadrasha Electric - Personal Website
 
 A modern, responsive personal website showcasing your expertise as a Computer Teacher and AI Mentor.
 
@@ -182,6 +182,6 @@ For technical support or customization help:
 
 ---
 
-**Built with ❤️ for Bishworaj Poudel**
+**Built with ❤️ forAadrasha Electric **
 
 *Your AI Mentor & Computer Teacher*
